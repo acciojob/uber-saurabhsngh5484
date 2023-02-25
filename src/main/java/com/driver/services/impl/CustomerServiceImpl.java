@@ -89,7 +89,7 @@ public class CustomerServiceImpl implements CustomerService {
 		trip.setDistanceInKm(0);
 		tripBookingRepository2.save(trip);
 	}
-	hdfgjtrxkhyjmyjhgit
+
 
 	@Override
 	public void completeTrip(Integer tripId){
